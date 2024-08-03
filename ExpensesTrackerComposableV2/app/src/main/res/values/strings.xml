@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpensesTrackerComposableV2</string>
+    <string name="google_maps_api_key">AIzaSyAOe7UuARYsGeYlAXRV08eP1C68p51zqEU</string>
+</resources>
